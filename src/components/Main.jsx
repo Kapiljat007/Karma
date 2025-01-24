@@ -1,4 +1,3 @@
-import React from "react";
 import Grass_1 from "../assets/Grass_1.png";
 import Moank_1 from "../assets/Moank_1.png";
 

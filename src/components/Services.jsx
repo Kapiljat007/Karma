@@ -1,4 +1,3 @@
-import React from "react";
 import Serve_bg from "../assets/Serve_bg.png"; // Your actual background image import
 import Social_1 from "../assets/Social_1.png";
 import Astro_1 from "../assets/Astro_1.png";

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Karma_logo from "../assets/Karma_logo1.png"; // Import the logo image
 
 const Navbar = () => {

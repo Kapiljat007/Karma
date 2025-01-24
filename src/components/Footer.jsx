@@ -1,4 +1,3 @@
-import React from "react";
 import { FaFacebookF, FaInstagram, FaTwitter, FaLinkedinIn, FaRedditAlien } from "react-icons/fa"; // Install react-icons
 
 function Footer() {
@@ -48,7 +47,7 @@ function Footer() {
         </div>
       </div>
     </div>
-    
+
   );
 }
 
